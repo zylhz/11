@@ -5,7 +5,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://pan.shangui.cc/f/GDAAuz/ipv6.txt",
+		    "url": "https://jihulab.com/zeng2/zifeng/-/raw/main/iptv.txt",
 		    "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
