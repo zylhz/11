@@ -11,7 +11,7 @@
 	    }],
 
 	"sites":[
-{"key":"豆瓣","name":"🎦豆瓣软件接口免费,禁止贩卖,日后魔改QQ群:869277279","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"🐱抖音猫贩子接口免费,禁止贩卖","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":0,"filterable": 0, "changeable":0,"jar":"http://rihou.vip:61/lib/alibaba.jar","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
 {"key": "直播转点播","name": "📺︎电视IJK点播","type": 3,"api": "./lib/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./lib/zb.json"},
 {"key": "csp_ttkx","name": "🎦玩偶┃4K","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","filter": "./lib/wogg.json"},"jar": "http://rihou.vip:61/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"},	
