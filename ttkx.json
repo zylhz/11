@@ -6,7 +6,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "https://pan.shangui.cc/f/GDAAuz/ipv6.txt",
-		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+		    "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
 
